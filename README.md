@@ -5,9 +5,9 @@ This webpage provides the Pricecard using ReactJS
 Replicated the dynamic content in same as this link
 https://docs.google.com/document/d/11URBvZUsXT4Sr3YtCuv-5gcOHmkOmX976h-QKcXbWqs/edit?pli=1
 
-# Created the json structure for three plans
-# Dynamically iterated the content as three plans
-# showcased the dynamic icons for features are allowed
+1. Created the json structure for three plans
+2. Dynamically iterated the content as three plans
+3. showcased the dynamic icons for features are allowed
 
 
 
