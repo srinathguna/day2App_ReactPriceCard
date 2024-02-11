@@ -1,6 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This webpage provides the Pricecard using ReactJS
+
+Replicated the dynamic content in same as this link
+https://docs.google.com/document/d/11URBvZUsXT4Sr3YtCuv-5gcOHmkOmX976h-QKcXbWqs/edit?pli=1
+
+# Created the json structure for three plans
+# Dynamically iterated the content as three plans
+# showcased the dynamic icons for features are allowed
+
+
 
 Currently, two official plugins are available:
 
